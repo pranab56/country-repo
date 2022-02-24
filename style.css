@@ -1,0 +1,14 @@
+
+@media screen and (min-width: 390px) {
+    #container{
+        text-align: center;
+    }
+    button{
+        margin-left: 660px;
+    }
+    body{
+        background-color: beige;
+    }
+  }
+  
+ 
